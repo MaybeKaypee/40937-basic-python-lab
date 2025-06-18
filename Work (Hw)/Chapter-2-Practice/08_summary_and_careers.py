@@ -1,0 +1,2 @@
+print("Each person pays:",(round(((int(input()))*((100+int(input()))/100))/int(input()),2)))
+#first input price then multiply by (100+tip)/100 too find final price then divded by people num the round up the number to 2 decimal
