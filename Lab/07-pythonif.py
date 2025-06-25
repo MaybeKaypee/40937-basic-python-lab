@@ -1,0 +1,1 @@
+x = input(); print("Is A" if x =="A" else "Not A")
