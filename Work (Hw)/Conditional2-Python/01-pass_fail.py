@@ -1,0 +1,1 @@
+print("Pass" if(int(input())>=50) else "Fail")

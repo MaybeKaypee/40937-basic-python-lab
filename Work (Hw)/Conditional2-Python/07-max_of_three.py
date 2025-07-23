@@ -1,0 +1,1 @@
+print(max(int(input()),max(int(input()),int(input()))))
