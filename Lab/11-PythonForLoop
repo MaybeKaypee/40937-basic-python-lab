@@ -1,0 +1,8 @@
+num = int(input())
+total = []
+for i in range(num):
+    data = int(input("Enter data: "))
+    total += [data]
+print(total)
+total.sort()
+print(total)
